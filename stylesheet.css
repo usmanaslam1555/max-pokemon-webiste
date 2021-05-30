@@ -1,0 +1,49 @@
+body{
+	background-color: rgba(3, 59, 255, 0.34);
+}
+
+.pokedesing {
+	font-family: cursive;
+    font-size: 64px;
+ 	line-height: 74px;
+	text-align: center;
+}	
+
+.row {
+	display: flex;
+}
+.colunm {
+	flex: 33.33%;
+	padding: 5px;
+
+ }
+
+.mainpic{
+	height: 400px;
+	width: :50%;
+}
+.picstting{
+	display: flex;
+ 	justify-content: center;
+}
+
+p{
+	font-size: 65px;
+	font-family:cursive;
+	padding-left: 65px;
+	padding-right: 65px;
+}
+
+.backbutton{
+	height: 96px;
+	width: 102px;
+}
+
+.backstting{
+	display: flex;
+ 	justify-content: flex-end;
+
+}
+
+
+
